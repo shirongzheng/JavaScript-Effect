@@ -1,4 +1,4 @@
 # JavaScript-Effect
 
-## GO TO MY CODEPEN
+## GO TO MY CODEPEN PAGE
 # https://codepen.io/shirongzheng
